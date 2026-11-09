@@ -1,0 +1,23 @@
+# 运行产物与个人环境信息，不随仓库分发
+state.json
+patched.json
+last-apply.json
+*.log
+apply-log*.txt
+apply-report.txt
+context.txt
+where.txt
+scan-report.json
+scan-report.txt
+scan-log.txt
+discovered.json
+discovered-ui.json
+ext-package-dump.txt
+
+# 备份
+*.zhbak
+*.zhbak.*
+
+node_modules/
+.DS_Store
+Thumbs.db
